@@ -1,0 +1,32 @@
+.title{
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.imagen{
+    text-align: center;
+}
+
+h2{
+    background-color: #C9CBCE;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subtitle{
+    background-color: #B4DD13;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lists{
+    font-size: 20px;
+    font-weight: 60;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    
+   
+}
+
+.directions{
+
+}
